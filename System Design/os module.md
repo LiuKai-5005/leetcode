@@ -1,13 +1,15 @@
-Operating system
 os 模块，主要与操作系统打交道
+
+`Operating system`
+
 为什么需要这个模块？
 其实主要是用代码来对计算机进行操作，有点类似于Dos系统，在没有鼠标和交互界面的情况下，使用os语言执行系统操作，如：新建文件（夹），删除文件（夹），查看文件属性等等。
 
 
-
+```python
 import os
 
-1.  os.getcwd()    #获取当前路径 get current working directory 类似于 cd
+os.getcwd()    #获取当前路径 get current working directory 类似于 cd
 >>>'D:\\Python'
 
 2.  os.listdir()   #列出目录中的内容 list directory 返回的是一个 list， 类似于 ls
@@ -26,5 +28,6 @@ os.mkdir('c:/test') #新建一个目录
 4.  os.rmdir()    #删除目录
 os.rmdir('c:/test') #把刚才建的目录给删除了
 
+```
 
 Ref: https://blog.51cto.com/pmghong/1353340
