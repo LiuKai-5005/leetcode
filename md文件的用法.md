@@ -58,4 +58,7 @@ def poker(n: int) -> list:
 
 
 # 超链接:
-[参考链接](https://blog.csdn.net/u012067966/article/details/50736647)
+[CSDN例子](https://blog.csdn.net/u012067966/article/details/50736647)
+[官方说明](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax#links)
+
+
