@@ -26,8 +26,8 @@ Contents
 
 # 打标签
 `30岁大龄码农的成长之路` `刷题找工作` <br>
-`emoji`符号也是支持的，例如 :+1: :-1: :shipit: :star: :moon: :apple: :peach: :watermelon: :lemon: :banana:
-
+`emoji`符号也是支持的，例如 :+1: :-1: :shipit: :star: :moon: :apple: :peach: :watermelon: :lemon: :banana: :smile: <br>
+[emoji表情包代码一览](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 # 插入代码 
 >之后加上你的编程语言
