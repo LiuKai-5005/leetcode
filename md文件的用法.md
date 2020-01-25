@@ -1,7 +1,7 @@
 
-
-
 md是markdown的缩写，markdown是一种编辑博客的语言。
+
+
 
 LeetCode
 -----------
@@ -14,19 +14,22 @@ LeetCode
 * practice for leetcode problems
 
 # 排版
-  使用Tab按键<br>
-  * 使用 星号
-  *斜体*
+  * 使用 星号 是 加一个 <br>
+  *斜体*<br>
+  **粗体**<br>
+  ~~删除~~<br>
 
 
 
 
 # 引用
->引用别人的话，需要使用">"符号
+>引用别人的话，需要使用">"符号， 这一段灰色打底
 
 # 打标签
 `30岁大龄码农的成长之路` `刷题找工作`
 ``类似于 '' ``
+emoji符号也是支持的，例如 :+1: :-1: :shipit: :star: :moon: :apple: :peach: :watermelon: :lemon: :banana:
+
 
 # 插入代码 
 >之后加上你的编程语言
