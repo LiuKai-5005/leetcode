@@ -1,7 +1,7 @@
 # CONTENTS
 
 ## LeetCode
-### Two Sum
+### 1 Two Sum
 ### 2
 ### 3
 
