@@ -1,16 +1,17 @@
 
-md是markdown的缩写，markdown是一种编辑博客的语言。
+`.md`是`markdown`的缩写，markdown是一种编辑博客的语言。
 
+更多是为了排版好看，想想之前写论文用`LaTex`是一样的，虽然用`Word`一样可以写，但是排版还是很难看。
 
+下面就是一些练习的例子，知识点。
 
-LeetCode
+Contents
 -----------
 # 1 Two Sum
 
+# 换行
+`<br>`
 
-LeetCode
-
-刷题找工作 <br>
 * practice for leetcode problems
 
 # 排版
@@ -20,15 +21,13 @@ LeetCode
   ~~删除~~<br>
 
 
-
-
 # 引用
->引用别人的话，需要使用">"符号， 这一段灰色打底
+>引用别人的话，需要使用`>`符号， 这一段灰色打底
 
 # 打标签
 `30岁大龄码农的成长之路` `刷题找工作`
 ``类似于 '' ``
-emoji符号也是支持的，例如 :+1: :-1: :shipit: :star: :moon: :apple: :peach: :watermelon: :lemon: :banana:
+`emoji`符号也是支持的，例如 :+1: :-1: :shipit: :star: :moon: :apple: :peach: :watermelon: :lemon: :banana:
 
 
 # 插入代码 
