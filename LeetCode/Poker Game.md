@@ -4,8 +4,6 @@
 `Xiaomi`
 `queue`
 
-```python
-
 这道题我一开始想的应该是用双向队列，类似于传递热马铃薯问题（hot potato game），实际上是用一个双向队列，循环放牌，另一个数组接住pop出来的牌。
 类推：valid parenthesis 为什么需要用stack而不是队列，其实，类似于“消消乐”这种需要抵消或者及时查看栈顶的操作的时候，我们需要stack，即list。
 
@@ -15,8 +13,7 @@
 queue.appendleft('xx') --> 注意区别，和list.insert('xx')不同，此操作只有O(1)的复杂度，不涉及数组的平移，类似linked list
 queue.popleft()
 
-
-
+```python
 
 from collections import deque
 
