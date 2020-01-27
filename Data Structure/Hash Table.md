@@ -6,6 +6,12 @@ Hash Table
 
 
 
+Heaps
+=====
+
+
+BFS & DFS
+======
 
 
 
